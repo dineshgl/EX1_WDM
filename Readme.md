@@ -1,4 +1,4 @@
-WEKA Download And Installation
+# WEKA Download And Installation
 ## 1) Download the software from here.
 
 Check the configuration of the computer system and download the stable version of WEKA (currently 3.8) from this page.
